@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/portfolio/static/css/main.65494f19.css",
+    "main.js": "/portfolio/static/js/main.88121d13.js",
+    "static/media/IBM_Python.png": "/portfolio/static/media/IBM_Python.9e3b67c07409bc639f2d.png",
+    "static/media/profile-img.jpg": "/portfolio/static/media/profile-img.cab3a90079cc55be7ef1.jpg",
+    "static/media/THM-W25U8MTXLL-1.png": "/portfolio/static/media/THM-W25U8MTXLL-1.27d05f04cfa87e96f1a4.png",
+    "static/media/THM-NXGUUMRKQQ-1.png": "/portfolio/static/media/THM-NXGUUMRKQQ-1.070a49a9eef88bd016b3.png",
+    "static/media/Coursera H7ANBQD36MK8-1.png": "/portfolio/static/media/Coursera H7ANBQD36MK8-1.7723f4df38e0ab7946ab.png",
+    "static/media/Coursera 7M5BGT333KXA-1.png": "/portfolio/static/media/Coursera 7M5BGT333KXA-1.c1d0a99a3aa2f56a03bb.png",
+    "static/media/Coursera 3FGMOVC77DN1-1.png": "/portfolio/static/media/Coursera 3FGMOVC77DN1-1.c247d3638fe571fb1cb6.png",
+    "static/media/Coursera 2DJSMLAWRCGU-1.png": "/portfolio/static/media/Coursera 2DJSMLAWRCGU-1.de0ece877ba8cb724646.png",
+    "static/media/Coursera VSKPC8VEMXX1-1.png": "/portfolio/static/media/Coursera VSKPC8VEMXX1-1.54d0afa8b2940d86cf44.png",
+    "static/media/ESSALMI_ABDERRAZZAK_CV.pdf": "/portfolio/static/media/ESSALMI_ABDERRAZZAK_CV.6bcc211ce9bf8b7556c1.pdf",
+    "static/media/Expense_Tracking_App.png": "/portfolio/static/media/Expense_Tracking_App.31e4ab5266b58c5215d2.png",
+    "static/media/Inventory_Management_App.png": "/portfolio/static/media/Inventory_Management_App.5824430dcae854e3c262.png",
+    "static/media/To_Do_List_App.png": "/portfolio/static/media/To_Do_List_App.461f95d546b3804eb88c.png",
+    "index.html": "/portfolio/index.html",
+    "main.65494f19.css.map": "/portfolio/static/css/main.65494f19.css.map",
+    "main.88121d13.js.map": "/portfolio/static/js/main.88121d13.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.65494f19.css",
+    "static/js/main.88121d13.js"
+  ]
+}
