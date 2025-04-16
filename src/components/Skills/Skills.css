@@ -1,0 +1,38 @@
+#skills {
+  background-color: #171c23;
+  color: #fff;
+  padding: 4rem 1.7em;
+}
+
+.cyan {
+  color: #00bd95;
+}
+
+.tags-container {
+  width: 80%;
+  margin: 0.5em auto;
+}
+
+.tag {
+  display: inline-block;
+  border-radius: 3px;
+  padding: 0.2em 0.5em 0.3em;
+  border-radius: 2px;
+  background: #454e56;
+  color: #b2becd;
+  font-weight: 700;
+  margin: 0.5em 0.3em;
+  cursor: pointer;
+}
+
+.reveal{
+  position: relative;
+  transform: translateY(150px);
+  opacity: 0;
+  transition: all 2s ease;
+}
+
+.reveal.active{
+  transform: translateY(0px);
+  opacity: 1;
+}
