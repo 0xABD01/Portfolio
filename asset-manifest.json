@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "./static/css/main.65494f19.css",
-    "main.js": "./static/js/main.13bf458b.js",
+    "main.css": "./static/css/main.192d882a.css",
+    "main.js": "./static/js/main.1622669c.js",
     "static/media/IBM_Python.png": "./static/media/IBM_Python.9e3b67c07409bc639f2d.png",
     "static/media/profile-img.jpg": "./static/media/profile-img.cab3a90079cc55be7ef1.jpg",
     "static/media/THM-W25U8MTXLL-1.png": "./static/media/THM-W25U8MTXLL-1.27d05f04cfa87e96f1a4.png",
@@ -16,11 +16,11 @@
     "static/media/Inventory_Management_App.png": "./static/media/Inventory_Management_App.5824430dcae854e3c262.png",
     "static/media/To_Do_List_App.png": "./static/media/To_Do_List_App.461f95d546b3804eb88c.png",
     "index.html": "./index.html",
-    "main.65494f19.css.map": "./static/css/main.65494f19.css.map",
-    "main.13bf458b.js.map": "./static/js/main.13bf458b.js.map"
+    "main.192d882a.css.map": "./static/css/main.192d882a.css.map",
+    "main.1622669c.js.map": "./static/js/main.1622669c.js.map"
   },
   "entrypoints": [
-    "static/css/main.65494f19.css",
-    "static/js/main.13bf458b.js"
+    "static/css/main.192d882a.css",
+    "static/js/main.1622669c.js"
   ]
 }
