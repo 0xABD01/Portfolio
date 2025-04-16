@@ -94,6 +94,7 @@
     grid-row-gap: 10px;
     margin: 20px;
     text-align: center;
+    margin: 0 auto;
   }
   .portfolio-grid {
     margin: 20px auto;

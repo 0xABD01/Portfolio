@@ -141,6 +141,9 @@
   .btn-home {
     display: none;
   }
+  .name {
+    margin: 0 auto;
+  }
 }
 
 #home {
@@ -234,6 +237,7 @@
 }
 .name > p{
   margin-bottom: 15px;
+  
 }
 
 .personal-info {
@@ -340,7 +344,7 @@ code {
     margin-bottom: 50px;
   }
   .btn{
-    display: none;
+    /* display: none; */
   }
   .btn-desktop{
     display: block;
